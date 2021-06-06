@@ -6,8 +6,9 @@ You can refer to these documents but remember to cite the source from here. Than
 <br>
 
 ------------------------
-Copyright by ToVinhKhang
+© Copyright by ToVinhKhang
 <br>
 
-Do not re-up
+© Do not re-up
+
 ------------------------
