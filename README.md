@@ -1,11 +1,24 @@
 ## All my reports in Software Engineering Major at TDT University
 #### Aggregate all reports where I work as Team Leader include:
-##### Business  Analysis
-##### Web Development
-##### UIUX
-##### Computer Science
-##### Testing
-##### Game
+<br>
+
+• Business  Analysis
+<br>
+
+• Web Development
+<br>
+
+• UIUX
+<br>
+
+• Computer Science
+<br>
+
+• Testing
+<br>
+
+• Game
+<br>
 
 #### You can refer to these documents but remember to cite the source from here. 
 #### Thanks,
